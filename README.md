@@ -5,8 +5,10 @@ There are multiple features available in this tool. As a sample, I have used my 
 
 ![image alt](https://github.com/404Ninjaaa/OSINT/blob/main/Screenshot%202025-06-08%20at%2015.05.18.png?raw=true)
 
-lalala
+Not only can it perform user reconnaissance, but it can also do much more—such as WHOIS lookups and subdomain discovery. It even takes screenshots of live subdomains, which saves time compared to checking each one manually. To make the tool more user-friendly, I’ve used multiple colors to indicate different results.
+
 ![image alt](https://github.com/404Ninjaaa/OSINT/blob/main/Screenshot%202025-06-08%20at%2015.07.20.png?raw=true)
 
-lala
+To make it user-friendly, this program automatically organizes the results by distinguishing whether it’s a user or a subdomain.
+
 ![image alt](https://github.com/404Ninjaaa/OSINT/blob/main/Screenshot%202025-06-08%20at%2015.09.54.png?raw=true)
